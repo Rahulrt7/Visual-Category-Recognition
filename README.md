@@ -18,7 +18,7 @@ PCA - Principal Component Analysis
 kNN - k-nearest neighbour algorithm | SVMs - Support Vector Machines
 
 # Notebooks:
-- SVM Implementation.ipynb: Contains code for classifier solely trained on Support Vector Machines (bad Accuracy)
+- SVM Classifier.ipynb: Contains code for classifier solely trained on Support Vector Machines (bad Accuracy) and Confusion Matrix representation of results.
 - Hybrid Classifier.ipynb: Classifier making use of kNN algorithm on top of SVM adding another filtering layer to improve accuracy. (improved accuracy)
 - FinalProjectreport: Report submitted by us in college.
 - RefferedResearchPaper.pdf: Algorithm that we implemented in this project was based on this research paper.
