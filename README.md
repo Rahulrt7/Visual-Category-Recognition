@@ -5,7 +5,7 @@ An Image Recognition system which makes use of kNN and SVMs for prediction.
 Programming language: Python 2.7 | IDE: jupyter-notebook | libraries: scikit-image, scikit-learn
 
 # Running the code:
-Hybrid+Classifier.py file can be executed through terminal. This script calls function make_prediction() whose parameters can be changed to make prediciton for some other image in dataset(assuming you have downloaded the data). Other notebooks are there to be refered for heatmap and confusion matrix of prediciton made by our hybrid model.
+Hybrid+Classifier.py file can be executed through terminal. This script calls function make_prediction() whose parameters can be changed to make prediciton for some other image in dataset(assuming you have downloaded the data). Other notebooks are there to be refered for heatmap and confusion matrix of prediciton made by our hybrid model. Notebooks can also be referred to see the training of model and actual prediciton made by our classifier.
 
 # What was the motive for doing this project?
 This project do not have any significant practical use, we(me and one of my classmate) build this project as MINOR project for my 5th semester. The purpose for this project was to build a fundamental base in the field of Computer Vision, so that the knowledge gained by doing this project can be applied for our major project which will definitely be ready for a commerial aplication. Our Major project will making use of RNNs and CNNs (deep learning) to generate natural language description for an image and we will soon be adding a repository to that project.
